@@ -1,0 +1,2 @@
+class MixoutMixin(object):
+    pass
